@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116925562362",
+    "project_id": "ihm-corp",
+    "storage_bucket": "ihm-corp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116925562362:android:9c7107058b916316f0b843",
+        "android_client_info": {
+          "package_name": "com.example.stripe_payment_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3FInlCGi1eO9yFOHQvPDy6-H262xh6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
